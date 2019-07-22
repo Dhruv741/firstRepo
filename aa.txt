@@ -1,2 +1,8 @@
 HELLO WORLD
+<<<<<<< HEAD
 My Changes
+=======
+
+
+Git Changes
+>>>>>>> 6dbfb570a582d25fb8bbdb0232d9bb66f158176a
