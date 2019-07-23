@@ -11,6 +11,7 @@ namespace GitDemoProject
             Console.WriteLine("VS Changes");
             Console.WriteLine("GitHub Changes");
             Console.WriteLine("Changes in Master");
+            Console.WriteLine("GITHUB Changes in Master");
 
 
 
