@@ -9,7 +9,7 @@ namespace GitDemoProject
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Earth");
             Console.WriteLine("VS Changes");
-            Console.WriteLine("GitHub Changes")
+            Console.WriteLine("GitHub Changes");
 
         }
     }
