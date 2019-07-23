@@ -11,6 +11,8 @@ namespace GitDemoProject
             Console.WriteLine("VS Changes");
             Console.WriteLine("GitHub Changes");
             Console.WriteLine("Branch Created");
+            Console.WriteLine("VS Changes New Branch");
+
 
         }
     }
